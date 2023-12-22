@@ -1,0 +1,15 @@
+{
+  "name": "project-2---challenge",
+  "version": "1.0.0",
+  "description": "You make a dashboard for a house.\r * Provide a dashboard by means of. HTML, CSS and JS/TS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
