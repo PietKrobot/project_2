@@ -5,5 +5,5 @@ services:
     ports:
       - "80:80"
     volumes:
-      - ./website:/usr/local/apache2/htdocs
+      - ./website/Project 2 - challenge/dashboard
     restart: always
